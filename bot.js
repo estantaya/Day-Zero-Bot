@@ -885,4 +885,4 @@ function SendOnline(channel,tipo) {
   
   channel.send(jugadoresEmbed);
 }
-client.login('Nzg0MTQ0NDEzODIzMzM2NDk5.X8lBZA.L9tjwk0FqU27L-dDN_I_wCvvDVs');
+client.login('change_me');
