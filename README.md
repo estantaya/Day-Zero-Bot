@@ -2,6 +2,10 @@
 
 Rust Legacy Discord Bot
 
-Requirements: A rust legacy server! and Node.js
+Requirements:
+              A rust legacy server!
+              Node.js
+              Bot token
 
-Optional: Nodemon.js
+Optional:
+              Nodemon.js
